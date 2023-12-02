@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **web, services and mobile automations**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **Web automation**
 
 - 📫 How to reach me **david.saber44@gmail.com**
 
